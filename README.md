@@ -1,7 +1,7 @@
 Exploring-DrRacket-BSL
 ======================
 
-## Programs created with in BSL in DrRacket
+## Programs created in BSL in DrRacket
 
 Here you will find some programs I have created in Beginning Student Language using the DrRacket editor:  
   
